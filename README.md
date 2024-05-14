@@ -1,5 +1,5 @@
 # YOLO-Deploy-QT_Interface
-用于部署YOLOv5和YOLOv8的可视化QT界面
+用于部署YOLOv5和YOLOv8的可视化QT界面，可实现图片、文件夹、视频、摄像头的ONNX与OpenVino部署
 ![图片描述](assets/Demo.gif)
 
 ## 1.环境配置
