@@ -28,6 +28,6 @@ At this point, the environment configuration is complete and can be used as the 
 
 
 ## 4. Statement
-- ** If the code is helpful to you, please click a Star, you can raise Issues together **
-- ** Please indicate the source of the code, refuse white whoring, carry forward the open source spirit together, piracy will be prosecuted! **
+- **If the code is helpful to you, please click a Star, you can raise Issues together**
+- **Please indicate the source of the code, refuse white whoring, carry forward the open source spirit together, piracy will be prosecuted!**
 
