@@ -1,0 +1,19 @@
+# pip install -r requirements.txt
+
+coloredlogs==15.0.1
+flatbuffers==23.5.26
+humanfriendly==10.0
+mpmath==1.3.0
+numpy==1.24.4
+onnx==1.15.0
+onnxruntime==1.16.3
+opencv-python==4.9.0.80
+openvino==2023.3.0
+openvino-telemetry==2023.2.1
+packaging==23.2
+protobuf==4.25.1
+pyqt5==5.15.10
+pyqt5-qt5==5.15.2
+pyqt5-sip==12.13.0
+sympy==1.12
+
