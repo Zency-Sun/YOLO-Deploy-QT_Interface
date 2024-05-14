@@ -5,6 +5,7 @@
 ![图片描述](assets/Demo.gif)
 
 ## 1.环境配置
+本程序已经在Windows10和Ubuntu20.04系统上进行过验证，均可正常运行。
 本程序使用Conda创建环境，依次按照下面的命令创建并激活环境：
 ```bash
 conda create -n qtenv python=3.8
