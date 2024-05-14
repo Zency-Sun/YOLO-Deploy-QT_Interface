@@ -3,6 +3,7 @@ Visual QT interface for deploying YOLOv5 and YOLOv8 for ONNX and OpenVino deploy
 ![demo](assets/Demo.gif)
 
 ## 1.Environment Setup
+This program has been verified to work on both Windows 10 and Ubuntu 20.04 systems.
 This program uses Conda to create an environment, which is created and activated by following the following commands:
 ```bash
 conda create -n qtenv python=3.8
