@@ -1,8 +1,6 @@
 # YOLO-Deploy-QT_Interface
 用于部署YOLOv5和YOLOv8的可视化QT界面
-<p align="center">
-  <img src="assets/Demo.gif">
-</p>
+![图片描述](assets/Demo.gif)
 
 ## 1.环境配置
 本程序使用Conda创建环境，依次按照下面的命令创建并激活环境：
